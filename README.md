@@ -16,13 +16,20 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Image and heading](htps://raw.githubusercontent.com/osazuwamatthewogbebor/recipe-page-fem/main/screenshots/Capture%20A.PNG)
+
+![Ingredients](htps://raw.githubusercontent.com/osazuwamatthewogbebor/recipe-page-fem/main/screenshots/Capture%20B.PNG)
+
+![Instructions](htps://raw.githubusercontent.com/osazuwamatthewogbebor/recipe-page-fem/main/screenshots/Capture%20C.PNG)
+
+![Nutrition](htps://raw.githubusercontent.com/osazuwamatthewogbebor/recipe-page-fem/main/screenshots/Capture%20D.PNG)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/osazuwamatthewogbebor/recipe-page-fem
+
+- Live Site URL: https://osazuwamatthewogbebor.github.io/recipe-page-fem
 
 ## My process
 
